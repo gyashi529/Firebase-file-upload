@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916981700637",
+    "firebase_url": "https://fileuploader-956bc.firebaseio.com",
+    "project_id": "fileuploader-956bc",
+    "storage_bucket": "fileuploader-956bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916981700637:android:5b95597e88be0a097d8ef4",
+        "android_client_info": {
+          "package_name": "com.example.android.fileuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916981700637-pr4k7k32muagkdf0pdkhuhq5g0vqev1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDERD3SgKsAxpwOLvJgwcNZYnL9FyvfRcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916981700637-pr4k7k32muagkdf0pdkhuhq5g0vqev1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
